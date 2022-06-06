@@ -1,0 +1,8 @@
+{
+  "name": "telegram-study-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:taras-protsyshyn/telegram-study-bot.git",
+  "author": "Taras <protsyshyn.taras@coaxsoft.com>",
+  "license": "MIT"
+}
